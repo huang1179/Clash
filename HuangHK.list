@@ -1,0 +1,17 @@
+# 自需求  优先选香港线路
+
+DOMAIN-SUFFIX,three.com.hk
+DOMAIN-KEYWORD,ocbc
+DOMAIN-KEYWORD,hsbc
+DOMAIN-KEYWORD,three
+DOMAIN-KEYWORD,schwab
+DOMAIN-KEYWORD,clubsim
+DOMAIN-KEYWORD,dukascopy
+DOMAIN-KEYWORD,tngdigital
+DOMAIN-KEYWORD,yoodo
+DOMAIN-KEYWORD,maybanksandbox
+DOMAIN-KEYWORD,maybank2u
+DOMAIN, gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX, hkcsl.com
+DOMAIN-SUFFIX, theclub.com.hk
+DOMAIN-SUFFIX, clubsim.com.hk
