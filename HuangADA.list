@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,lazada.com.my
 DOMAIN-SUFFIX,lazada.co.th
 DOMAIN-SUFFIX,lazada.sg
 DOMAIN-SUFFIX,lazada.com.ph
+IP-CIDR,43.164.130.16/32,no-resolve
+IP-CIDR,43.164.132.206/32,no-resolve
